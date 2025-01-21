@@ -1,7 +1,7 @@
 FROM python:3.6
-MAINTAINER Kastro "kastrokiran@gmail.com"
+MAINTAINER Manjunat
 COPY . /app
 WORKDIR /app
-EXPOSE 8898
+EXPOSE 5000
 RUN pip install -r requirements.txt
 ENTRYPOINT ["python", "app.py"]
