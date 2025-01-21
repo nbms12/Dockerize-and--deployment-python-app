@@ -22,12 +22,11 @@ here are the various strps involved in creating dockerizing flask app using pyth
    docker images
 
    1) docker pull manju811/flaskapp:v2
-   
-  
-      ![image](https://github.com/user-attachments/assets/24077e1d-da39-4ded-8885-34e9f3520bae)
+
 
 
 9)Run docker on port 5000 
+
  sudo docker run -p 5000:5000 -it --name container1 manju811/flaskapp:v2
 
 
