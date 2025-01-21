@@ -30,6 +30,9 @@ here are the various strps involved in creating dockerizing flask app using pyth
  sudo docker run -p 5000:5000 -it --name container1 manju811/flaskapp:v2
 
 
+ congrats! app is deployed in ec2 instance server as flask image.
+
+
  ![image](https://github.com/user-attachments/assets/28b75d93-ee88-4c51-bf95-a892455beaaf)
 
 
