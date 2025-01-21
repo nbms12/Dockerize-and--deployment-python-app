@@ -100,7 +100,7 @@ def hello():
                 <img src="https://d2gbo5uoddvg5.cloudfront.net/images/gifs/logo-docker.gif" class="gif" alt="Docker Gif" width="150">
             </div>
             <div>
-                <div class="subtitle">Welcome to</div>
+                
                 <div class="title">welcome to docker world !</div>
                 <div class="subtitle">by</div>
                 <div class="name">Manjunath nb</div>
